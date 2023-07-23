@@ -1,3 +1,8 @@
-# Do the following to activate the virtual environment and run the game on Windows:
-1. venv\Scripts\activate
-2. python snake.py
+# Snake
+
+## To run:
+
+- python -m venv venv
+- venv\Scripts\activate
+- pip install -r requirements.txt
+- python snake.py
